@@ -44,8 +44,9 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <br>
     <a href='https://railway.com/github/Toxic1239/QUEEN-RIAS' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
 
- ### DEPLOY ON RENDER 
-1. NOT AVAILABLE 
+ ### DEPLOY ON PANEL
+1. BEST OPTION
+    <a href='https://bot-hosting.net/?aff=1249249036259823733' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=WhatsApp&logoColor=white'/></a>
     
 ### DEPLOY ON CODESPACE 
 1. Deploy. `Free`
