@@ -1,0 +1,21 @@
+node_modules
+
+# vim files
+*.sw?
+
+# mac files
+*.DS_Store
+
+# dist directory
+dist
+
+# sample files
+readme-test.js
+
+# temp debugging files
+xxx.html
+dasu.response
+post.response
+
+# ignore lockfile
+package-lock.json
